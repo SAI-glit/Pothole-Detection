@@ -1,0 +1,24 @@
+# Model weights (too large for GitHub — download link in README)
+*.pt
+
+# Uploaded and processed images
+static/uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code junk
+tempCodeRunnerFile.python
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Test images
+test_image.jpg
